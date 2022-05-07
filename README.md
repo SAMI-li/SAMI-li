@@ -57,7 +57,7 @@
       alt="nodejs" width="40" height="40" /> </a>  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> </a> <a href="https://php.net" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/php.svg" alt="php" width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/php-original.svg" alt="php" width="40"
       height="40" /> </a> </p>
 
 <br>
@@ -65,13 +65,13 @@
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=SAMI-li&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
+    alt="sami-li" 
     bg_color=#808080/></p>
 
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SAMI-li&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+    alt="sami-li" /></p>
 
 <br>
 
