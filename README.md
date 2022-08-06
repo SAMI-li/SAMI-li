@@ -10,7 +10,7 @@
 <p><img align="right" src="https://github.com/SAMI-li/SAMI-li/blob/main/animation_500_kxa883sd.gif" alt="SAMI-li" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Data Science Enthusiast
 
 - 📫 How to reach me **jimouhsami@gmail.com**
 
