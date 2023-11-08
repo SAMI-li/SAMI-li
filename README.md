@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAMI JIMOUH</h1>
-<h3 align="center">Student at FST MARRAKECH 🌟.</h3>
+<h3 align="center">Data Engineer 🌟.</h3>
 
 <br>
 
